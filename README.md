@@ -1,18 +1,20 @@
-### Max Otta
+### About me
 
-This is the 1st test.
+Lorem ipsum...
 
-<!--
-**maxotta/maxotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Blogs
+- Distributed systems
+- Teaching computer science
+- Miscellaneous
 
-Here are some ideas to get you started:
+### Teaching/Tutorials - accompanying repositories
+- kiv-ds-vagrant
+- kiv-ds-docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- kiv-psi-base-docker
+- kiv-psi
+- kiv-psi-gns3
+
+- iac-step-by-step
+
+- dev-builder-c
