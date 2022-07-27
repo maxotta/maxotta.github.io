@@ -4,7 +4,7 @@ Lorem ipsum...
 
 ### Blogs
 - Distributed systems
-- Teaching computer science
+- Teaching informatics / computer science
 - Miscellaneous
 
 ### Teaching/Tutorials - accompanying repositories
