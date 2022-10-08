@@ -13,7 +13,7 @@ Since mid 2021 I'm back at the university teaching 4 courses. I refurbished two 
 ### Blogs
 - Distributed systems
 - Teaching informatics / computer science
-- Miscellaneous
+- Smart home
 
 ### Teaching/Tutorials - accompanying repositories
 - kiv-ds-vagrant

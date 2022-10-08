@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Max Otta @ GitHub
 description: Assistant Professor @ University of West Bohemia in Pilsen (CZ) • Distributed Systems & Cloud Tech • Full Stack Development • Smart Home Enthusiast
+github:
+  is_project_page: false
