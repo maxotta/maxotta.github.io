@@ -1,3 +1,5 @@
+
+![avatar](ascii-art/avatar-transparent-bg.png)
 ### About me
 
 *Motto: The master has failed more times than the beginner has even tried.*
