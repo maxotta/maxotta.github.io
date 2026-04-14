@@ -12,6 +12,10 @@ In 2006 I left the university and spent 15 years in the commercial sphere workin
 
 Since mid 2021 I'm back at the university teaching 4 courses. I refurbished two existing ones (Computer Networks, Distributed Systems) and introduced another two (Cloud Computing, Continuous Software Development and Delivery).
 
+### Contact
+- [Faculty of Applied Sciences / University of West Bohemia in Pilsen / CZ](https://www.zcu.cz/en/Employees/person.html?personId=147194)
+- [LinkedIn Profile](https://linkedin.com/in/max-otta)
+
 <!-- ### Blogs -->
 <!-- - Distributed systems -->
 <!-- - Teaching informatics / computer science -->
