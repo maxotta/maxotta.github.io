@@ -30,6 +30,7 @@ Since mid 2021 I'm back at the university teaching 4 courses. I refurbished two 
     - [KIV/PSI - Computer Networks](https://github.com/maxotta/kiv-psi)
     - [Computer Networks Lab Base Docker Image](https://github.com/maxotta/kiv-psi-base-docker)
     - [Computer Networks Lab GNS3 Appliances](https://github.com/maxotta/kiv-psi-gns3)
+    - [FRRouting in Docker Image and GNS3 Appliance](https://github.com/maxotta/kiv-psi-frr-docker)
     - [Docker image ```dev-builder-c```](https://github.com/maxotta/dev-builder-c)
 
 - Cloud Computing
